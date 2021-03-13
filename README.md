@@ -5,3 +5,7 @@ It is no longer under development.
 # Installation
 Download the latest version of Jar from the release.  
 If you want to make any changes, simply replace the src folder of MCP1.12.2.  
+# How to use
+Open ClickGui in `RSHIFT`.  
+The command prefix is `-`.  
+*See the help command for more details on the command.*
